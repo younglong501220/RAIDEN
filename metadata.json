@@ -1,0 +1,7 @@
+{
+  "name": "雷電 RAIDEN - 經典街機射擊",
+  "description": "經典街機雷電 (Raiden) 致敬版縱向射擊遊戲，擁有標誌性彎曲質子雷射、火神擴散機砲、毀滅核爆與震撼 Boss 戰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
